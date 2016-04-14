@@ -1,0 +1,27 @@
+.yellow {
+	color: blue;
+}
+
+.header-text {
+	background-color: yellow;
+	width: 50% ;
+	margin-left :320px;
+	border-style: dotted;
+	border-width: 10px;
+	border-color: black;
+
+}
+
+.paragraph-text{
+	color: black;
+	font-weight: 15;
+}
+
+h2 {
+	color: purple;
+}
+
+img {
+	width: 300px;
+	margin-left: 350px;
+}
