@@ -2,6 +2,10 @@
 	color: blue;
 }
 
+.header-text h1{
+	text-align: center;
+}
+
 .header-text {
 	background-color: yellow;
 	width: 50% ;
@@ -14,7 +18,7 @@
 
 .paragraph-text{
 	color: black;
-	font-weight: 15;
+
 }
 
 h2 {
